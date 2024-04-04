@@ -1,0 +1,31 @@
+span{
+    display: flex;
+    align-items: center;
+    gap: 20%;
+}
+
+.cidade{
+    margin-right: 100px;
+}
+
+.TempContainer h1{
+    margin: 0;
+}
+
+.TempContainer p, h4{
+    margin:5px;
+}
+
+.TempContainer{
+    width: 50vh;
+    margin-top: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    align-items: center;
+    margin-left: 80vh;
+    padding: 20px;
+    border-radius: 20px;    
+}
+
+.Condicao h1{
+    font-size: 15px;
+}
